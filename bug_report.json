@@ -1,1 +1,18 @@
-
+{
+  "Summary":"App [Skyeng] shows error message (Connection error has occurred) when internet is connected",
+  "Description":"Steps to reproduce:"
+Tap  Skyeng icon Tap (Слова которые пора повторить)
+Сomplete tasks by tapping the correct answers 
+Expected Results: after completing the task with the word that you learn, a window appears with the next task with new word  
+Actual Results: after completing several tasks, showing error message (Connection error has occurred. Please check internet connection and try again later).
+Button [Retry] doesn’t help to solve the problem, 
+since it doesn't find a connection. 
+Reproducible: sometimes (often)"
+  
+  
+  
+  
+  
+  
+  
+}
