@@ -5,6 +5,7 @@
     "Expected Results": "after completing the task with the word that you learn, a window appears with the next task with new word",
     "Actual Results": "after completing several tasks, showing error message (Connection error has occurred. Please check internet connection and try again later). Button [Retry] doesn’t help to solve the problem, since it doesn't find a connection.",
     "Reproducibility": "often",
-    "Environment": "Native application Skyeng, App version: 9.55.0 (555) SDK 6.4, Android version 11, Model name: Samsung Galaxy A51, Model number SMA515FDSM,"
+    "Environment": "Native application Skyeng, App version: 9.55.0 (555) SDK 6.4, Android version 11, Model name: Samsung Galaxy A51, Model number SMA515FDSM"
+    
   }
 }
